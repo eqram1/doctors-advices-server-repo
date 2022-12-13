@@ -1,0 +1,20 @@
+{
+  "name": "doctors-advices-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eqram1/doctors-advices-server-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eqram1/doctors-advices-server-repo/issues"
+  },
+  "homepage": "https://github.com/eqram1/doctors-advices-server-repo#readme"
+}
